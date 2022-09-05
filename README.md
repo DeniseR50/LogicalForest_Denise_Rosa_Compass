@@ -17,17 +17,17 @@ Em se tratando da funcionalidade do Mocha e Chai, como estrutura de testes e bib
 
 As tecnologias utilizadas no desenvolvimento do projeto são:
 
-Javascript, 
+Chai,
+CSS, 
 HTML,
-CSS,
+Javascript, 
 Mocha
-Chai
 Node.jsv16.17.0
 Visual Studio Code
 
 Todas compatíveis com a versão 11 do Sistema Operacional Windows
 * [Cypress](https://www.cypress.io/) - The test framework used
-* [Cucumber](https://cucumber.io/) - BDD + geração de relatório de teste
+* 
 
 
 
