@@ -1,4 +1,3 @@
-
 # PROJETO EM JAVASCRIPT E TDD COM MOCHA E CHAI
 
 Consiste no desenvolvimento de atividades na linguagem de programação em Javascript, incluindo formulário convite em HTLM e testes utilizando TDD com Mocha e Chai.
