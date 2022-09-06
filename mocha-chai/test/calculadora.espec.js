@@ -56,15 +56,15 @@ describe('Testes de divisão', ()=>{
     })
 })
 
-describe('Testes de raiz quadrada', ()=>{
-    it('Teste de raiz quadrada resultando em 144', () => {
-        let resultado = Calculadora.raiz(-12)
-        expect(resultado).to.be.eq(-12)
-        
+describe('Testes de potenciação', ()=>{
+    it('Teste de potenciação de 2 e 3 resultando em 8', () => {
+        let resultado = Calculadora.eleva(2, 3)
+        expect(resultado).to.be.eq(8)
+          
     })
-    it('Teste de raiz quadrada resultando em 25', () => {
-        let resultado = Calculadora.raiz(5)
-        expect(resultado).to.be.eq(5)
+    it('Teste de potenciação -4 e 2 resultando em 16', () => {
+        let resultado = Calculadora.eleva(-4, 2)
+        expect(resultado).to.be.eq(16)
         
     })
 })

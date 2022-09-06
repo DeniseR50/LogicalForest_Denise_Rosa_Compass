@@ -17,7 +17,8 @@ export default class Calculadora {
         return a / b
     }
 
-    static raiz(a, b){
-        return a
+    static eleva(a, b){
+        return a ** b
     }
+
 }
